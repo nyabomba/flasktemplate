@@ -1,0 +1,5 @@
+paoenv
+*.pyc
+.env
+.vscode
+__pycache__
